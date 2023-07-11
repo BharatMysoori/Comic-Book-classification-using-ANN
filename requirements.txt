@@ -1,0 +1,16 @@
+numpy
+matplotlib
+pandas
+opencv-python
+keras
+tensorflow
+h5py
+pillow
+sklearn-genetic
+sklearn
+scikit-learn
+sklearn-extensions
+pyswarms
+django
+pymysql
+seaborn 
